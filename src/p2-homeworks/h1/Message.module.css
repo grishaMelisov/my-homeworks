@@ -5,7 +5,7 @@
   align-items: center;
   flex-direction: row;
   max-width: 500px;
-  background-color: rgb(175, 226, 72);
+
   border-radius: 7px;
   margin: 5px;
 }
@@ -14,12 +14,13 @@
   border-radius: 50%;
   width: 50px;
   margin-bottom: 150px;
+  box-shadow: 5px 2px 2px rgb(37, 37, 37);
 }
 
 .box {
   width: 300px;
   margin: 50px auto;
-  background: green;
+  background: linear-gradient(to right, #1f4037, #99f2c8);
   padding: 20px;
   text-align: left;
   font-weight: 900;
